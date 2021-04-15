@@ -82,7 +82,7 @@ $$min_Gmax_D$$
 
 ---
 
-```flow
+```mermaid
 graph LR
     1-->2
     1-->4
